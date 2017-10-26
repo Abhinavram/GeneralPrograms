@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumNnumbers", "SumNnumbers\SumNnumbers.csproj", "{1962AF85-1669-4349-8BD0-8318E6DE882E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RijndaelEncryptDecrypt", "RijndaelEncryptDecrypt\RijndaelEncryptDecrypt.csproj", "{CF92222A-C298-4ADC-AC0F-5F0245AC51E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1962AF85-1669-4349-8BD0-8318E6DE882E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1962AF85-1669-4349-8BD0-8318E6DE882E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1962AF85-1669-4349-8BD0-8318E6DE882E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF92222A-C298-4ADC-AC0F-5F0245AC51E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF92222A-C298-4ADC-AC0F-5F0245AC51E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF92222A-C298-4ADC-AC0F-5F0245AC51E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF92222A-C298-4ADC-AC0F-5F0245AC51E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
